@@ -1,5 +1,7 @@
 # Mean Stack Tutorial
 
+## NOTE - This is no longer under active development or maintenance, use at your own risk.
+
 [![Join the chat at https://gitter.im/OperationCode/mean-squad](https://badges.gitter.im/OperationCode/mean-squad.svg)](https://gitter.im/OperationCode/mean-squad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Learn how to build a Reddit/Hacker news clone using the technologies in the MEAN stack.
